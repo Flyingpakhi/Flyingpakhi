@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flyingpakhi
+- 👋 Hi, I’m shuvechha nandi.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning dsa with c++.
 - 💞️ I’m looking to collaborate on projects based on c++ language.
