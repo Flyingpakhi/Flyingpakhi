@@ -1,4 +1,5 @@
-- ![JoyofCoding-featured](https://user-images.githubusercontent.com/112820414/200834825-38f81527-f0c2-481a-8c1c-f75a07a3cec1.jpg)
+- ![JoyofCoding-featured](https://user-images.githubusercontent.com/112820414/200835632-185aa54d-62b0-4854-8ca8-803f9f693aed.jpg)
+
 - 👋 Hi, I’m shuvechha nandi.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning dsa with c++.
