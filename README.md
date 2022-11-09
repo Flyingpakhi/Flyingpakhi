@@ -1,5 +1,4 @@
--![9d2b04a381fe509b5f19f26dba6b1d1c](https://user-images.githubusercontent.com/112820414/200836918-962a2db1-328e-480a-a8ce-dd3349524b2e.jpg)
-
+![JoyofCoding-featured](https://user-images.githubusercontent.com/112820414/200837043-a78a0d20-0e5b-4e10-8bfa-bb01d724aeb9.jpg)
 
 - 👋 Hi, I’m shuvechha nandi.
 - 👀 I’m interested in learning new technologies.
