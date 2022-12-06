@@ -31,4 +31,3 @@
 ### Statistics:
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Flyingpakhi)
 <br>
-![Flyingpakhi's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Flyingpakhi&theme=react-dark)
